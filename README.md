@@ -1,7 +1,7 @@
 # Auralis 🔵
-> Is a spatial audio platform designed for the **creation, 
+> 🎛 Is a spatial audio platform designed for the **creation, 
 modeling, encoding, and playback** of multichannel and object-based 
-audio. 🎛
+audio.
 >
 
 >
@@ -14,8 +14,8 @@ currently under development and created by BDEV.
 
 
 
-> [!NOTE] 🔧
-> This is a personal project, so it won't be released until the beta version 
+> [!NOTE]
+> 🔧 This is a personal project, so it won't be released until the beta version 
 is up and running.
 
 
