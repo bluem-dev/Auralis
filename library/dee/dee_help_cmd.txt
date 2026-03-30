@@ -1,0 +1,33 @@
+C:\Archivos de softwares\Dolby Encoding Engine>dee.exe --help
+dee.exe, Version 5.2.1, Jun 10 2022
+Options:
+  --help, -h                               : Print this help.
+  --xml, -x FILE                           : Specify a file with XML profile.
+  --json, -j FILE                          : Specify a file with JSON profile.
+  --schema, -s FILE                        : Specify a file to write XML schema.
+  --input-audio, -a FILE                   : Specify a file with audio source. Not required if already provided in XML profile.
+  --input-video, -v FILE                   : Specify a file with video source. Not required if already provided in XML profile.
+  --output, -o FILE                        : Specify a file to write the output. Not required if already provided in XML profile.
+  --log-file FILE                          : Specify a log file.
+  --stdout                                 : If a log file is specified this option duplicates the log to standard output. Otherwise this option is ignored.
+  --verbose LEVEL                          : LEVEL values are: quiet, normal, info, debug (default)
+  --license-file, -l FILE                  : Specify a license file.
+  --trace-file FILE                        : Specify a trace file.
+  --trace-length NUMBER                    : Number of frames to keep in trace buffer (default=100000).
+  --progress                               : Enable progress bar. Ignored when no log file specified.
+  --progress-interval MILLISECONDS         : Set progress reporting interval (default=1000).
+  --diagnostics-interval MILLISECONDS      : Set diagnostics (e.g. MEM/CPU usage) reporting interval (default=1000).
+  --add-elem                               : Add (overwrite if exists) XML element.
+  --disable-xml-validation                 : Disable xml validation.
+  --print-stages                           : Print available stages. Those not covered by license will be marked as disabled.
+  --temp DIR                               : Set temp_dir to specified directory. This option overrides temp_dir specified in XML profile.
+  --ignore-logs STRING                     : Ignore logs containing specified string or at least one of strings from comma-sperated list.
+
+Usage Examples:
+1. Write XML Schema to a file:
+   dee.exe --schema C:\Users\CurrentUser\schema.xsd
+2. Launch encoding job with progress reporting:
+   dee.exe --progress --log-file log.log --xml ..\mxf_dv_mezz_to_dv_profile_5_hevc.xml
+3. Launch encoding job with input from the CLI (overwrite input provided in XML if exists):
+   dee.exe --xml ..\mxf_dv_mezz_to_dv_profile_5_hevc.xml --input-video C:\Video\Movie\movie.mxf
+   dee.exe --xml ..\damf_atmos_mezz_to_atmos_ddp_ec3.xml --input-audio ..\Audio\printmaster.atmos
