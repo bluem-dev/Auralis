@@ -2,8 +2,11 @@
 > Is a spatial audio platform designed for the **creation, 
 modeling, encoding, and playback** of multichannel and object-based 
 audio. 🎛
+>
 
+>
 
+>
 
 > [!IMPORTANT]
 > **Auralis™, Auralis Monitor™ and ORB: MOSA™** is a software ecosystem 
