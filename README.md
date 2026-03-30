@@ -3,12 +3,18 @@
 modeling, encoding, and playback** of multichannel and object-based 
 audio. 🎛
 
+
+
 > [!IMPORTANT]
 > **Auralis™, Auralis Monitor™ and ORB: MOSA™** is a software ecosystem 
 currently under development and created by BDEV.
 
+
+
 > [!NOTE] 🔧
 > This is a personal project, so it won't be released until the beta version 
 is up and running.
+
+
 
 > **Copyright (C) 2026, BDEV. All rights reserved.**
