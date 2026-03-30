@@ -1,4 +1,4 @@
-#Auralis 
+# Auralis 
 
 Is a spatial audio platform designed for the **creation, 
 modeling, encoding, and playback** of multichannel and object-based 
