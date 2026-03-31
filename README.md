@@ -20,4 +20,4 @@ is up and running.
 
 
 
-> **Copyright (C) 2026, BDEV. All rights reserved.**
+> **Copyright © 2026, BDEV. All rights reserved.**
