@@ -1,0 +1,19 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Auralis",
+  "outputfilename": "auralis",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "-",
+  "author": {
+    "name": "B_DEV",
+    "email": "bluee.dev.1@gmail.com"
+  },
+  "info": {
+    "productName": "Auralis",
+    "productVersion": "1.00.00",
+    "copyright": "Copyright © 2026, BDEV. All rights reserved.",
+    "comments": "Auralis - Plataforma Interoperable de Codificación y Audio Espacial"
+  }
+}
