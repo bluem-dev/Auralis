@@ -38,6 +38,13 @@
 * Procesamiento multicanal
 * Soporte para audio basado en objetos
 * Pipeline de procesamiento modular
+* Codificación interna: 
+  - PWARE
+* Codificación externa:
+  - DMAE
+  - DEE
+  - FLAE
+  - OPUE
 
 ### 🧩 Arquitectura
 
