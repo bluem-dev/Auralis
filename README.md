@@ -2,15 +2,19 @@
 
 ![Demo](https://i.postimg.cc/BnCwDxhT/Auralis_wordmark.png)
 
-🎛 Plataforma de codificación de audio para **creación, modelado, codificación y reproducción** multicanal.
+Plataforma de codificación de audio para **creación, modelado, codificación y reproducción** multicanal.
+
+# Plataformas: 
+
+- Windows: x86/x64
 
 ***
 
-# 📊 Estado del Proyecto
+# 📊 Estado del proyecto
 
 ![Progress](https://img.shields.io/badge/Progress-70%25-blue)
 
-**Progreso general del desarrollo**
+**Progreso general de desarrollo**
 
 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
 
@@ -19,7 +23,7 @@
 
 ---
 
-## 🧩 Progreso por Módulos
+## 🧩 Progreso por módulos
 
 | Módulo             | Estado                 |
 | ------------------ | ---------------------- |
@@ -72,7 +76,7 @@ D --> E[Salida / Exportación]
 
 ---
 
-# 🚀 Estado de Desarrollo
+# 🚀 Estado
 
 ```text
 Fase actual: Desarrollo avanzado
@@ -92,7 +96,7 @@ Estado: Arquitectura sólida, funcionalidades en expansión
 
 ---
 
-# 🗺️ Roadmap (Resumen)
+# 🗺️ Roadmap (resúmen)
 
 * [x] Base del motor de audio
 * [x] Estructura del proyecto
@@ -113,7 +117,7 @@ Consulta el historial de cambios en:
 
 # 🤝 Contribución
 
-Actualmente el proyecto no está abierto a contribuciones externas.
+No está abierto a contribuciones externas.
 
 ***
 
@@ -124,8 +128,7 @@ Actualmente el proyecto no está abierto a contribuciones externas.
 ## 🧠 Nota
 
 > [!NOTE]
-> Proyecto personal. Se publicará cuando la beta esté lista.
-
+> Éste proyecto tiene cómo lema y objetivo: libertad y flujo.
 
 ---
 
