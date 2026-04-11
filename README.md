@@ -4,7 +4,7 @@
 
 Plataforma de codificación de audio para **creación, modelado, codificación y reproducción** multicanal.
 
-# Plataformas: 
+# Sistemas operativos: 
 
 - Windows: x86/x64
 
